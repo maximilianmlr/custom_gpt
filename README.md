@@ -30,5 +30,4 @@
       <li>Modify the 'question' variable to the desired question for QA.</li>
   </ul>
 
-  <p>Feel free to customize and extend the code for your specific use case. Enjoy contextually rich conversational QA with the power of langchain and advanced language models!</p>
 </html>
